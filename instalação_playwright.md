@@ -3,8 +3,9 @@
 
 Add Example Test
 Create a file that follows the test_ prefix convention, such as test_example.py, inside the current working directory or in a sub-directory with the code below. Make sure your test name also follows the test_ prefix convention.
-<b>test_example.py</b>
 
+<b>test_example.py</b>
+/n
 import re
 from playwright.sync_api import Page, expect
 
